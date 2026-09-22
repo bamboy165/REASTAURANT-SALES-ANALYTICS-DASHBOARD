@@ -4,15 +4,36 @@
 ---
 The data analysis project aims to provide insight about restaurant over two years |through proper cleaning, detailed analysis and  appropriate visualization. The aim is to find patterns and trends then make the right recommendation to ensure proper data driven decisions.
 
+## Tools Used
+- Excel - Data Cleaning
+          - Data Visualization
+  
 ## About Data
 The Restaurant Sales Dataset  contains data for 17,534 transactions. The dataset includes sales details across multiple categories, such as starters, main dishes, desserts, drinks, and side dishes. The data was gotten from Kaggle. The dataset contains 
-- Order ID : The order id serves as a unique identifier for each order that was placed.
-- Customer ID : The customer id uniquely identifies each customer that place an order.
-- Category : It shows the category of the item ordered, there are 5 categories; Drinks,Desserts,Main Dishes,Side Dishes,Starters.
-- Item : This is the specific name of the item ordered. 
-- Price : The amount an Item costs.
-- Quantity : The number of Item acquired.
-- Order Total : This is gotten from the product of price and quantity to get the final cost.
-- Order Date : This is the date the order is placed.
-- Payment Method : The means through which payment was made.
+- **Order ID** : The order id serves as a unique identifier for each order that was placed.
+- **Customer ID** : The customer id uniquely identifies each customer that place an order.
+- **Category** : It shows the category of the item ordered, there are 5 categories; Drinks, Desserts, Main Dishes, Side Dishes, Starters.
+- **Item** : This is the specific name of the item ordered. 
+- **Price** : The amount an Item costs.
+- **Quantity** : The number of Item acquired.
+- **Order Total** : This is gotten from the product of price and quantity to get the final cost.
+- **Order Date** : This is the date the order is placed.
+- **Payment Method** : The means through which payment was made.
+
+ <img width="2560" height="1440" alt="RAW TABLE" src="https://github.com/user-attachments/assets/f1c33fcd-fd6b-4c79-905a-c4edf101321d" />
+
+## Data Cleaning 
+1. **Converted the data into table and autofitted column from ribbon** : This is to ensure that i can see what each column contains
+2. **Standardized header and type** : Capitalized first letter of each word in column header and also ensured that each column had appropriate data type. Then boldened the header to make  it distinct from other parts of data.
+3. **Explored dataset** : Scrolled up to see and fully understand the data and what it represent.
+4. **Filtered and Deleted blank rows** : Removed blank rows to avoid uneccessary ambiguity of dataset
+5. **used a formula to calculate missing values in Price column** : Used formula (=Order Total/Quantity) to calculate price then auto filled all other missing values
+6. **Deleted blanks in payment method and Items, since I can not reach out to data source** : This blanks were deleted because it would later  affect when analysing data and there is no way they can be rectified since data source can not be reached.
+7. **Removed duplicate although no duplicate was found** : Tied removing duplicate to avoid repeatition and inconsistency in analysis but no duplicate was found
+8. **Created  Month and year column from the date column for better analysis** : Month and year columns was created from the date column, using the 'TEXT' function. This column was created to ensure better analysis.
+
+   <img width="2560" height="1440" alt="CLEANED TABLE" src="https://github.com/user-attachments/assets/41a6dc8e-a461-47f9-a140-c2a71360682b" />
+
+## Data Analysis
+
 
