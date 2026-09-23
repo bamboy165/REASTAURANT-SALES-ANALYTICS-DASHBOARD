@@ -50,3 +50,17 @@ The Restaurant Sales Dataset  contains data for 17,534 transactions. The dataset
 
 ## Analytical Insights
 
+The **highest sales** was made from **Grilled Chicken** because of te cost not quantity but the item with the **highest quantity sold** is **Pasta Alfredo**. The **lowest quantity sold** is **Nachos Grande**.
+
+The category with the highest sales is Main Dishes. The item with the highest sale  for each categories are;
+-  **Drinks** : Coca Cola(5,557.5)
+-  **Desserts** : Ice Cream(14,275)
+- **Main Dishes** : Grilled Chicken(36,210)
+-  **Side Dishes** : Mashed Potatoes(9,248)
+-  **Starters** : French Fries(10,564)
+
+The **highest used payment method** is **Cash**.
+
+The **most sales** was made in **2022** while 2023 fell a bit short with a difference of of **7598**.
+
+The **month with the highest sale**s in **2023** is **May(13933)** with **Grilled Chicken** making the **most sale** and the item with the **higest quantity sold** was **Pasta Alfredo(2963**) **WHILE** the **month with the highest sales** in **2022** was **March(14405.5)** with **Grilled Chicken** making the **most sales** and the item with **the highest quantity sold** was also **Pasta Alfredo(2963)**.
