@@ -4,13 +4,13 @@
 ## Project Overview
 
 ---
-The data analysis project aims to provide insight about restaurant over two years |through proper cleaning, detailed analysis and  appropriate visualization. The aim is to find patterns and trends then make the right recommendation to ensure proper data driven decisions.
+The data analysis project aims to provide insight about restaurant over two years through proper cleaning, detailed analysis and  appropriate visualization. The aim is to find patterns and trends then make the right recommendation to ensure proper data driven decisions.
 
 ## Dashboard Preview
 
 <img width="2560" height="1440" alt="Final" src="https://github.com/user-attachments/assets/4e014b1f-0c5d-4fe3-b3c1-f39ed6498ce4" />
 
-## Tools Used
+## Tool Used
 - Excel - Data Cleaning
           - Data Visualization
   
