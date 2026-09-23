@@ -15,7 +15,7 @@ The data analysis project aims to provide insight about restaurant over two year
           - Data Visualization
   
 ## About Data
-The Restaurant Sales Dataset  contains data for 17,534 transactions. The dataset includes sales details across multiple categories, such as starters, main dishes, desserts, drinks, and side dishes. The data was gotten from Kaggle. The dataset contains 
+The Restaurant Sales Dataset  contains data for 17,534 transactions. The dataset includes sales details across multiple categories, such as starters, main dishes, desserts, drinks, and side dishes. The data was gotten from Kaggle [Download Here](https://www.kaggle.com/datasets/ahmedmohamed2003/restaurant-sales-dirty-data-for-cleaning-training). The dataset contains 
 - **Order ID** : The order id serves as a unique identifier for each order that was placed.
 - **Customer ID** : The customer id uniquely identifies each customer that place an order.
 - **Category** : It shows the category of the item ordered, there are 5 categories; Drinks, Desserts, Main Dishes, Side Dishes, Starters.
