@@ -52,7 +52,7 @@ The Restaurant Sales Dataset  contains data for 17,534 transactions. The dataset
 
 The **highest sales** was made from **Grilled Chicken** because of te cost not quantity but the item with the **highest quantity sold** is **Pasta Alfredo**. The **lowest quantity sold** is **Nachos Grande**.
 
-The category with the highest sales is Main Dishes. The item with the highest sale  for each categories are;
+The category with the **highest sales** is **Main Dishes**. The item with the highest sale  for each categories are;
 -  **Drinks** : Coca Cola(5,557.5)
 -  **Desserts** : Ice Cream(14,275)
 - **Main Dishes** : Grilled Chicken(36,210)
@@ -64,3 +64,20 @@ The **highest used payment method** is **Cash**.
 The **most sales** was made in **2022** while 2023 fell a bit short with a difference of of **7598**.
 
 The **month with the highest sale**s in **2023** is **May(13933)** with **Grilled Chicken** making the **most sale** and the item with the **higest quantity sold** was **Pasta Alfredo(2963**) **WHILE** the **month with the highest sales** in **2022** was **March(14405.5)** with **Grilled Chicken** making the **most sales** and the item with **the highest quantity sold** was also **Pasta Alfredo(2963)**.
+
+## Recommendation
+
+**Optimize Menu Strategy & Item Pairing**
+**Bundle High-Volume with High-Margin Items**: Pasta Alfredo is your highest volume seller, while Grilled Chicken generates your highest revenue per unit. Create combo meals that pair Pasta Alfredo with profitable add-ons like Coca-Cola or French Fries to boost the average order value (AOV).
+
+**Upsell Protein Add-ons**: Since Grilled Chicken drives revenue via unit cost, offer a "Add Grilled Chicken to your Pasta Alfredo" upgrade option across digital and physical menu
+
+**Capitalize on Peak Seasonality**
+**Launch Early Spring Campaigns**: Both 2022 (March) and 2023 (May) experienced their sales peaks in late spring. Prepare targeted marketing and promotional bundles starting in February to capture and sustain high customer traffic through May.
+
+**Address the 2023 Revenue Gap**: Revenue dropped by 7,598 from 2022 to 2023 despite identical top-performing month volume (Pasta Alfredo sold 2,963 units in both peak months). Analyze whether overall transaction counts dropped in non-peak months, or if discounts/price adjustments eroded total annual revenue.
+
+## Conclusion
+This project allowed me to showcase my data cleaning, data transformation , data analysis , AI and analytical thinking skills.
+
+---
