@@ -1,4 +1,5 @@
 
+
 # REASTAURANT-SALES-ANALYTICS-DASHBOARD
 ## Project Overview
 
@@ -44,6 +45,8 @@ The Restaurant Sales Dataset  contains data for 17,534 transactions. The dataset
 - **Total Item = 26** : This is the total number of item that are sold in the restaurant. This includes a variety of dishes and drink.
 - **Total Quantity = 51554** : This is the total quantity of all the item sold in the restaurant.
 - **Total Customers = 17104** : This is the total number of customers the restaurant had over a duration of two years.
+
+<img width="2190" height="413" alt="KPIS" src="https://github.com/user-attachments/assets/a458f044-cca2-44f8-8854-7610a1c6e052" />
 
 ## Analytical Insights
 
