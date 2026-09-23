@@ -15,7 +15,7 @@ The data analysis project aims to provide insight about restaurant over two year
           - Data Visualization
   
 ## About Data
-The Restaurant Sales Dataset  contains data for 17,534 transactions. The dataset includes sales details across multiple categories, such as starters, main dishes, desserts, drinks, and side dishes. The data was gotten from Kaggle [Download Here](https://www.kaggle.com/datasets/ahmedmohamed2003/restaurant-sales-dirty-data-for-cleaning-training). The dataset contains 
+The Restaurant Sales Dataset  contains data for 17,534 transactions. The dataset includes sales details across multiple categories, such as starters, main dishes, desserts, drinks, and side dishes. The data was gotten from Kaggle [Download Here](https://www.kaggle.com/datasets/ahmedmohamed2003/restaurant-sales-dirty-data-for-cleaning-training). The dataset contains the following columns; 
 - **Order ID** : The order id serves as a unique identifier for each order that was placed.
 - **Customer ID** : The customer id uniquely identifies each customer that place an order.
 - **Category** : It shows the category of the item ordered, there are 5 categories; Drinks, Desserts, Main Dishes, Side Dishes, Starters.
@@ -78,6 +78,6 @@ The **month with the highest sale**s in **2023** is **May(13933)** with **Grille
 **Address the 2023 Revenue Gap**: Revenue dropped by 7,598 from 2022 to 2023 despite identical top-performing month volume (Pasta Alfredo sold 2,963 units in both peak months). Analyze whether overall transaction counts dropped in non-peak months, or if discounts/price adjustments eroded total annual revenue.
 
 ## Conclusion
-This project allowed me to showcase my data cleaning, data transformation , data analysis , AI and analytical thinking skills.
+This project allowed me to showcase my data cleaning, data transformation , data analysis , AI, Visualization and analytical thinking skills.
 
 ---
